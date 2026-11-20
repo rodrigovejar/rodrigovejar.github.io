@@ -1,0 +1,26 @@
+@import standard2.css;
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ background-color:#F0FAFA;
+ color:#000000;
+ margin-left: 0;
+ margin-right: 0;
+ margin-top: 0;
+ margin-bottom: 0;
+ padding:0px;
+ } 
+
+ .homepage {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 13px;
+ font-weight: bold;
+ text-decoration: none;
+ }
+ 
+h3 {
+  text-indent: 1em;
+  background: powderblue;
+}
+
+
